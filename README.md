@@ -2,6 +2,8 @@
 
 A Chrome Extension that automates the extraction of tax lot data from Charles Schwab's positions page, built following Test-Driven Development (TDD) principles.
 
+NOTE: This fork fixes the extract process by updating content.js. The original no longer works, but this one will. Use developer mode to download and load this extension locally.
+
 ## Features
 
 - **Automated Extraction**: Automatically clicks through all "Next Steps" buttons and extracts lot details
